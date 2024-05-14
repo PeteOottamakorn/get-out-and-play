@@ -6,8 +6,8 @@ In this project we were split into teams to come up with a project idea of our c
 
 ## Installation
 
-To install the page, go the the following website: (https://melissacade.github.io/get-out-and-play/)
-Here is the GitHub page to access the project: https://github.com/MelissaCade/get-out-and-play
+To install the page, go the the following website: (https://peteoottamakorn.github.io/get-out-and-play/)
+Here is the GitHub page to access the project: https://github.com/PeteOottamakorn/get-out-and-play
 
 ## Usage
 

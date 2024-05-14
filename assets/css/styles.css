@@ -1,0 +1,87 @@
+:root {
+  --blue-dk: rgb(2, 48, 63);
+  --blue-md: rgb(28, 90, 115);
+  --blue-lt: rgb(74, 116, 140);
+  --blue-xlt: rgb(243, 241, 255);
+  --green-dk: rgb(8, 41, 34);
+  --green-md: rgb(34, 75, 57);
+  --green-lt: rgb(112, 133, 100);
+  --green-xlt: rgb(250, 253, 248);
+}
+html {
+  font-size: 100%;
+}
+
+.angkor-regular {
+  font-family: "Angkor", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+  font-family: "Angkor", serif;
+  font-weight: 400;
+  font-size: 6rem;
+  text-align: center;
+  padding: 2rem;
+  background-image: url("../images/background-cropped.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: var(--green-xlt);
+  max-width: 100%;
+}
+
+section {
+  background-color: var(--green-xlt);
+  color: var(--green-dk);
+  padding: 2rem;
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+}
+.card-grid {
+  background-color: var(--green-lt);
+  min-height: 100vh;
+  height: auto;
+  max-width: 100%;
+}
+.card-img-top {
+  width: 70%;
+  margin: 15%;
+}
+.ui-widget {
+  font-size: 1rem;
+}
+.ui-widget label {
+  line-height: 2;
+}
+.custom-combobox {
+  position: relative;
+  display: block;
+}
+.custom-combobox-toggle {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin-left: 0.5rem;
+  padding: 0;
+}
+.custom-combobox-input {
+  margin: 0;
+  padding: 5px 10px;
+}
+.btn {
+  margin: 2rem 0.5rem;
+  border: 0.1rem black solid;
+}
+.ui-autocomplete {
+  max-height: 200px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+@media (max-width: 767px) {
+  header {
+    background-image: url("../images/background-mobile.jpg");
+  }
+}

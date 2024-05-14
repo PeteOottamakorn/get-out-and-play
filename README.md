@@ -36,8 +36,11 @@ When the "Forecast" button is selected, a 5-day forecast modal will appear for t
 ## Contributors
 
 https://github.com/MelissaCade
+
 https://github.com/PeteOottamakorn
+
 https://github.com/vicduar
+
 https://github.com/chrisjames1724
 
 ## Credits
@@ -45,9 +48,13 @@ https://github.com/chrisjames1724
 The following websites were used in the building of this website
 
 https://openweathermap.org/api
+
 https://www.nps.gov/findapark/index.htm
+
 https://getbootstrap.com/
+
 https://www.w3schools.com/
+
 https://developer.mozilla.org/en-US/
 
 Background Image:
